@@ -2,6 +2,25 @@ h1{
     color: cadetblue;
     background-color: rgb(29, 11, 11);
     text-align: center;
-    margin-left: 550px;
-    margin-right: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+}
+.heading{
+    color: rgba(95, 21, 21, 0.61);
+    background-color: rgb(108, 223, 223);
+    margin-right: 90%;
+}
+
+.div1{
+    background-color: aqua;
+    margin-left: auto;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding: auto;
+    font-weight: 500px;   
+}
+#id11{
+    color: rgba(231, 57, 13, 0.671);
 }
